@@ -1,4 +1,6 @@
-## Hi there 👋
+# developer
+
+C, C++, C#, HTML, PHP, JS, Java, and Lua
 
 <!--
 **luisharari/luisharari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
